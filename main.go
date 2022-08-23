@@ -10,10 +10,12 @@ func main() {
 	var res int = add(x, y)
 	var res2 int = sub(x, y)
 	var res3 int = multi(x, y)
+	//var res4 int = div(x, y)
 
 	fmt.Println(res)
 	fmt.Println(res2)
 	fmt.Println(res3)
+	//fmt.Println(res4)
 }
 
 func add(a int, b int) int {
@@ -38,3 +40,11 @@ func multi(a int, b int) int {
 	return c
 
 }
+
+// func div(a, b int) int {
+
+// 	var c int
+// 	c = a / b
+// 	return c
+
+// }
