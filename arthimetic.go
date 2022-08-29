@@ -27,23 +27,23 @@ func main() {
 	x = y
 	fmt.Println("= ", x)
 
-	x = 15
+	//x = 15
 	x += y
 	fmt.Println("+=", x)
 
-	x = 50
+	//x = 50
 	x -= y
 	fmt.Println("-=", x)
 
-	x = 2
+	//x = 2
 	x *= y
 	fmt.Println("*=", x)
 
-	x = 100
+	//x = 100
 	x /= y
 	fmt.Println("/=", x)
 
-	x = 40
+	//x = 40
 	x %= y
 	fmt.Println("%=", x)
 }
