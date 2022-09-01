@@ -22,6 +22,9 @@ func main() {
 	fmt.Println("Complex value is:", e)
 	// string value with concatenate
 
+	// zero value of Golang data types
+	// int  is 0, float is 0.0, string is "", boolean is "false"
+
 	f := " Smiley is beautiful"
 	g := " her is bueaty"
 	fmt.Println(f + g)
