@@ -31,10 +31,10 @@ func main() {
 
 	//Boolean
 
-	//  Var h bool
-	//  i := true
-	//  fmt.Println("H: ", h)
-	//  fmt.Println("I: ", i)
+	 Var h bool
+	 i := true
+	  fmt.Println("H: ", h)
+	  fmt.Println("I: ", i)
 
 	// Type of conversion
 
