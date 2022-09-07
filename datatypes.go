@@ -31,10 +31,10 @@ func main() {
 
 	//Boolean
 
-	 Var h bool
-	 i := true
-	  fmt.Println("H: ", h)
-	  fmt.Println("I: ", i)
+	//  Var h bool
+	//  i := true
+	//   fmt.Println("H: ", h)
+	//   fmt.Println("I: ", i)
 
 	// Type of conversion
 
@@ -43,4 +43,8 @@ func main() {
 
 	var k float32 = float32(j)
 	fmt.Println("Value of k is: ", k)
+
+	for l := 1; l <= 10; l++ {
+		fmt.Println(l)
+	}
 }
